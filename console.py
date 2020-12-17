@@ -149,7 +149,7 @@ def change_tag_from_sg(security_group):
                             print('An error occurred while changing this rule description', emoji.emojize(':no_entry:'))
 
 
-#delete_tmp_sg_ingress(security_group)
+delete_tmp_sg_ingress(security_group)
 change_tag_from_sg(security_group)
 
 print('All clear, check the output to see if there was any errors in the script execution ',

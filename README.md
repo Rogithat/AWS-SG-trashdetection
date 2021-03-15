@@ -19,7 +19,7 @@ Then replace "your_regex" variable with a regex that match description with rule
 
 To run this you'll need:
     * Python
-        * Boto3
+    * Boto3
     * Docker
     * K8S to run the CronJob
 

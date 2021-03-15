@@ -18,10 +18,11 @@ aws configure or exporting your ACCESS_KEY, SESSION_TOKEN, and SECRET_KEY enviro
 Then replace "your_regex" variable with a regex that match description with rules you want to delete.
 
 To run this you'll need:
-    * Python
-    * Boto3
-    * Docker
-    * K8S to run the CronJob
+* Python
+* Boto3
+* Docker
+* K8S to run the CronJob
+    
 
 
 ## ➤ Features
